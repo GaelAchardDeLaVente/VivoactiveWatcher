@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/android/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/packages/steps_repository/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/packages/steps_repository/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/packages/steps_repository/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/packages/steps_api/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/packages/steps_api/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/packages/steps_api/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/packages/firebase_steps_api/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/packages/firebase_steps_api/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vivoactive_watcher/packages/firebase_steps_api/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624648094744",
+    "project_id": "vivoactivewatcher",
+    "storage_bucket": "vivoactivewatcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624648094744:android:50522b84ee563586fbef6d",
+        "android_client_info": {
+          "package_name": "com.example.vivoactive_watcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624648094744-2oktfi3su0ihk0h9ndqs0gbjrfcju6mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGOjl_ycloRojS5q4CftAtnDh4BUg0sQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624648094744-2oktfi3su0ihk0h9ndqs0gbjrfcju6mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
